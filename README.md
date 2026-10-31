@@ -13,15 +13,6 @@
 > **Testnet and demo deliveries only.** Every file here is public, so nothing private belongs in it.
 > Mainnet needs private object storage with signed, expiring read URLs.
 
-## Contents
-
-1. [Overview](#-overview)
-2. [How the verifier reads it](#-how-the-verifier-reads-it)
-3. [Layout](#️-layout)
-4. [Limits](#️-limits)
-5. [Community & Maintainers](#-community--maintainers)
-6. [License](#license)
-
 ## 📖 Overview
 
 Pactwright asks a verifier to check that a purchase was delivered as the condition describes. The
@@ -68,7 +59,10 @@ An evidence item uses the relative URI `<pact_id>/<sha256>`. Each folder is one 
 
 ## 🤝 Community & Maintainers
 
-<!-- socials: add links when available -->
+Join the discussion and get support:
+
+- **Discord**: [discord.gg/4WFU6fwPe](https://discord.gg/4WFU6fwPe)
+- **Telegram**: [t.me/Pactwright](https://t.me/Pactwright)
 
 Questions and bug reports about the verifier go to
 [`Pactwright-Kit` issues](https://github.com/Pactwright/Pactwright-Kit/issues).
