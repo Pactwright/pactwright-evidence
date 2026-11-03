@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://pactwright.github.io/docs/guides/verifier/"><b>Verifier guide</b></a> ·
   <a href="https://github.com/Pactwright/Pactwright-Kit"><b>Pactwright-Kit</b></a> ·
-  <a href="https://pactwright-studio-testnet.onrender.com"><b>Studio</b></a>
+  <a href="https://pactwright-studio.vercel.app"><b>Studio</b></a>
 </p>
 
 > [!IMPORTANT]
@@ -48,7 +48,7 @@ An evidence item uses the relative URI `<pact_id>/<sha256>`. Each folder is one 
 
 | Folder | What it holds |
 |---|---|
-| `40725564…` | The source and the delivered Portuguese translation from the run in which the hosted verifier's verdict was accepted on-chain. The pact is public in Studio: [`40725564…5c55`](https://pactwright-studio-testnet.onrender.com/pact/4072556402d709463f7cb888a4a9e03b061d906f0b7ca5c49ebb2eec4e7d5c55) |
+| `40725564…` | The source and the delivered Portuguese translation from the run in which the hosted verifier's verdict was accepted on-chain. The pact is public in Studio: [`40725564…5c55`](https://pactwright-studio.vercel.app/pact/4072556402d709463f7cb888a4a9e03b061d906f0b7ca5c49ebb2eec4e7d5c55) |
 | `7827891…`, `7fc320c…`, `cf40f14…` | Local test runs against a separate demo instance of the contract (`CC24GJO3…BE3X`), so they do not appear in Studio |
 
 ## ⚠️ Limits
